@@ -1,0 +1,26 @@
+{
+  "mcpServers": {
+    "mcd-mcp": {
+      "type": "streamablehttp",
+      "url": "https://mcp.mcd.cn",
+      "headers": {
+        "Authorization": "Bearer 1XrAYq1Nj1t3ekdaMuf3pN5hSwMiuOPS"
+      }
+    }
+  },
+  "minimax": {
+    "api_key": "sk-api-Zc-s9XIFv6xqIMF6CY0A9kFGJM80jyHCWiT30F4aVKmHsqp_31Ymj6v9nUCi_DYhQD7iC7aKkePGcIMcsIIbP7egq6s4idua0UPS3r7EG72IkM6XlhU9Hpk",
+    "model": "MiniMax-M2.7",
+    "api_url": "https://api.minimaxi.com/anthropic"
+  },
+
+  "local": {
+    "api_key": "123",
+    "model": "Qwen3.5-9B-IQ4_NL.gguf",
+    "api_url": "http://localhost:8080"
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 5000
+  }
+}
