@@ -9,7 +9,7 @@
     }
   },
   "minimax": {
-    "api_key": "sk-api-Zc-s9XIFv6xqIMF6CY0A9kFGJM80jyHCWiT30F4aVKmHsqp_31Ymj6v9nUCi_DYhQD7iC7aKkePGcIMcsIIbP7egq6s4idua0UPS3r7EG72IkM6XlhU9Hpk",
+    "api_key": "YOUR API KEY",
     "model": "MiniMax-M2.7",
     "api_url": "https://api.minimaxi.com/anthropic"
   },
